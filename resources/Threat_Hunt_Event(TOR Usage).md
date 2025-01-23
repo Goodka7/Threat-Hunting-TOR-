@@ -75,7 +75,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: James Harrington
 - **Author Contact**: https://www.linkedin.com/in/Goodk47/
-- **Date**: January 20, 2004
+- **Date**: January 20, 2024
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -92,4 +92,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `January 20, 2024`  | `James Harrington`   
