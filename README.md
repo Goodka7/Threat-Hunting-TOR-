@@ -169,6 +169,6 @@ The user "labuser" on the device "hardmodevm" installed and used the Tor Browser
 
 ## Response Taken
 
-TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `labuser`. The device was isolated, and the user's direct manager was notified.
+TOR usage was confirmed on the endpoint `hardmodevm` by the user `labuser`. The device was isolated, and the user's direct manager was notified.
 
 ---
