@@ -74,6 +74,9 @@ DeviceProcessEvents
 
 Searched for any indication that user "labuser" actually opened the TOR browser.The results showed user “labuser” accessed tor.exe (tor browser), firefox.exe(tor browser) several times:
 
+At 3:42:33 PM to 3:42:26 PM (within the same minute), multiple instances of the "firefox.exe" process were created. These processes, all related to the Tor Browser, were executed from C:\Users\labuser\Desktop\Tor Browser\Browser\firefox.exe with various command parameters to handle different processes related to the browser's content processing, tab management, utility tasks, and GPU handling. Each "firefox.exe" instance had its own set of parameters, such as channels, preferences, and other configuration settings related to how the browser should run.
+The SHA256 hash for all instances of "firefox.exe" is the same: 3034311292fade8a24ab8e7312cfb7132153c14b9383439b527e8296fe06a492.
+
 At 3:42:49 PM on January 20, 2025, the user "labuser" created a process called "tor.exe" on the device "hardmodevm." The process was located at C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe, with the SHA256 hash c3b431779278278cda8d2bf5de5d4da38025717630bfeae1a82c927d0703cd28. 
 
 
