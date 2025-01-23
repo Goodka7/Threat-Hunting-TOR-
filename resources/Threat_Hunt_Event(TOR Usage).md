@@ -66,8 +66,8 @@ DeviceNetworkEvents
 | order by Timestamp desc
 
 // User shopping list was created and, changed, or deleted
-DeviceFileEvents
-| where FileName contains "shopping-list.txt"
+DeviceFileEvent
+| where FileName has_any (".txt", ".json")
 ```
 
 ---
