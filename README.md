@@ -76,9 +76,6 @@ Searched for any indication that user "labuser" actually opened the TOR browser.
 
 At 3:42:49 PM on January 20, 2025, the user "labuser" created a process called "tor.exe" on the device "hardmodevm." The process was located at C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe, with the SHA256 hash c3b431779278278cda8d2bf5de5d4da38025717630bfeae1a82c927d0703cd28. 
 
-The command executed was:
-"tor.exe" -f "C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\torrc" DataDirectory "C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor" ClientOnionAuthDir "C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\onion-auth" --defaults-torrc "C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\torrc-defaults" GeoIPFile "C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\geoip" GeoIPv6File "C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\geoip6" +__ControlPort 127.0.0.1:9151 HashedControlPassword ********** +__SocksPort "127.0.0.1:9150 ExtendedErrors IPv6Traffic PreferIPv6 KeepAliveIsolateSOCKSAuth" __OwningControllerProcess 4836 DisableNetwork 1
-
 
 **Query used to locate events:**
 
