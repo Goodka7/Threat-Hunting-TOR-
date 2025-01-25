@@ -1,7 +1,7 @@
 <img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
 
 # Threat Hunt Report: Unauthorized TOR Usage
-- [Scenario Creation](https://github.com/Goodka7/Threat-Hunting/blob/main/resources/Threat_Hunt_Event(TOR%20Usage).md)
+- [Scenario Creation](https://github.com/Goodka7/Threat-Hunting-TOR-/blob/main/resources/Threat-Hunt-Event(TOR%20Usage).md)
 
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
